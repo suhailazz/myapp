@@ -1,0 +1,15 @@
+.imageView{
+    width: 200px;
+    height: auto;
+}
+.vertical-align{
+    display: flex;
+    align-items: center;
+}
+button .btn{
+    width: 70px;
+    
+}
+.btn{
+    margin: 1px;
+}

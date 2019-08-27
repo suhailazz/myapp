@@ -1,0 +1,62 @@
+{
+  "employees": [
+    {
+      "id": 4,
+      "name": "man",
+      "gender": "Male",
+      "email": "aiza@gmail.com",
+      "phoneNumber": null,
+      "contactPreference": "Phone",
+      "dateOfBirth": "2019-08-18T17:49:38.000Z",
+      "department": "1",
+      "isActive": true,
+      "photoPath": "assets/image/download.jpg",
+      "phone": 4353,
+      "password": "1",
+      "confirmPassword": "1"
+    },
+    {
+      "id": 8,
+      "name": "jeena",
+      "gender": "Female",
+      "contactPreference": "Email",
+      "phoneNumber": null,
+      "email": "aiza@gmail.com",
+      "dateOfBirth": "2000-03-01T18:30:00.000Z",
+      "department": "3",
+      "isActive": true,
+      "photoPath": "assets/image/download.png",
+      "password": "1",
+      "confirmPassword": "1"
+    },
+    {
+      "id": 9,
+      "name": "suh",
+      "gender": "Female",
+      "contactPreference": "Email",
+      "phoneNumber": null,
+      "email": "aiza@gmail.com",
+      "dateOfBirth": "2019-08-04T18:30:00.000Z",
+      "department": "1",
+      "isActive": true,
+      "photoPath": "assets/image/images.png",
+      "password": "1",
+      "confirmPassword": "1"
+    },
+    {
+      "id": 10,
+      "name": "jose",
+      "gender": "Male",
+      "contactPreference": "Phone",
+      "phoneNumber": null,
+      "email": "",
+      "dateOfBirth": "2019-08-12T16:54:48.000Z",
+      "department": "3",
+      "isActive": true,
+      "photoPath": "assets/image/download.jpg",
+      "phone": 5878969,
+      "password": "1",
+      "confirmPassword": "1"
+    }
+  ]
+}
